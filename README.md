@@ -3,5 +3,5 @@
 ### Dh;asdfa
 *Italics*
 **Bold**
-
-[Links to youtube](youtube.com)
+[link to scratch](https://scratch.mit.edu/projects/757969487/)
+[link to scratch acount] (https://scratch.mit.edu/users/sammy13131313/)
